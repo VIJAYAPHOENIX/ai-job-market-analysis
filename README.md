@@ -29,6 +29,29 @@ An exploratory data analysis project investigating global AI job market trends u
 
 **Status:** In Progress
 
+## Visualizations
+
+### 1. Industry-wise AI Adoption Stage
+
+![Industry-wise AI Adoption Stage](images/industry-wise-ai-adoption-stage.png)
+
+### 2. Yearly Salary Growth (2010–2025)
+
+![Yearly Salary Growth (2010–2025)](images/yearly-salary-growth.png)
+
+### 3. Top 5 Countries by Maximum Salary Offered
+
+![Top 5 Countries by Maximum Salary Offered](images/top-5-countries-maximum-salary.png)
+
+### 4. Average Salary by Company Size
+
+![Average Salary by Company Size](images/average-salary-by-company-size.png)
+
+### 5. Average Salary by Seniority Level
+
+![Average Salary by Seniority Level](images/average-salary-by-seniority-level.png)
+
+
 ## Key Findings
 - AI Researcher roles have the highest average automation risk score among the analyzed job titles.
 - Business Analysis is the most frequently occurring core skill in the dataset.
